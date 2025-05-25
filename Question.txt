@@ -1,0 +1,22 @@
+📘 Assignment 2:
+Q: 1 NumPy & Pandas Case Study
+Title: Sales Data Insights
+
+Objective: Perform basic analysis on a sales dataset using NumPy and Pandas.
+
+Tasks: dataset uploaded
+
+1. Load the dataset using Pandas.
+2. Clean missing/null values.
+3. Perform:
+     a.Sum of sales by region
+     b.Average sales per product
+     c.Highest & lowest selling products
+Use NumPy to calculate mean, median, standard deviation of numerical fields.
+Submission: 
+Your code should be clean and well-organized, with proper documentation for each part of the application.
+Include a README file describing:
+Project setup.
+Build commands.
+A brief description of functionalities.
+Submit your GitHub repository link.
